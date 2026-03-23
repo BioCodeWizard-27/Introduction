@@ -1,2 +1,2 @@
-Hello! n/
+### Hello!
 I’m a professional working in biotechnology domain, interested in interdisciplinary study of Biology and Data. I am equipped with hands-on experience in Microbiology, Bioprocess Engineering, Microbial Enumeration & Analysis, Bioinformatics and Data Interpretation. Right now, I’m diving into Programming and Biological Data Science to tackle emerging challenges in the domain. I’m always open to connect and collaborate on projects contributing to environmental sustainability, healthcare, agricultural research.
